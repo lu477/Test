@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8319030815",
+    "project_id": "microbs-cc5a6",
+    "storage_bucket": "microbs-cc5a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8319030815:android:22de4867846822a47ca72a",
+        "android_client_info": {
+          "package_name": "com.example.microbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8319030815-opg6abfd590qjv9vg8hlhoon9t4c9p83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWq3lyXSUV0u2baH23pka3dhKgb8OJg-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8319030815-opg6abfd590qjv9vg8hlhoon9t4c9p83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
